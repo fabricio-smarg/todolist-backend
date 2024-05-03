@@ -2,12 +2,12 @@
  Este repositório contem o backend de uma API feita com NodeJS e Express seguindo o seguinte <a href="https://youtu.be/Cdu0WJhI-d8">tutorial</a> no youtube, do canal <a href="https://www.youtube.com/@ManualdoDev">Manual do Dev</a>. Eles também possuem um perfil aqui no <a href="https://github.com/manualdodev"> GitHub </a>. 
 
 ### Tecnologias usadas
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat&logo=javascript)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-grey?style=flat&logo=Express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-darkblue?style=flat&logo=mysql&logoColor=white)
 
 ### Como usar
 Primeiro, precisamos clonar ou baixar este repositório.
